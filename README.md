@@ -24,8 +24,8 @@ This web-based platform showcases the latest trailers for movies, games, and ani
 
 ![Demo Screenshot](./src/images/screenshot.png)
 
-👉 **Live Demo: https://bennyna.github.io/landing-page-sahatsathai/**
-
+👉 **Live Demo: [https://bennyna.github.io/landing-page-sahatsathai/**
+](https://bennyna.github.io/Landing-page---SahatsathaiNN/)
 ---
 
 ## ✨ Features
